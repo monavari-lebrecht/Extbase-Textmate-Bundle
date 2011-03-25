@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>	/**
+	 * $2
+	 *
+	 * @var $3
+	 **/
+protected \$$1;
+
+	/**
+	 * gets $2
+	 * 
+	 * @return $3 $2
+	 * @author $TM_FULLNAME
+	 **/
+public function get${1/./\u$0/}() {
+	return \$this-&gt;$1;
+} // end of public function get${1/./\u$0/}()
+
+	/**
+	 * sets $2
+	 * 
+	 * @param $3 $2
+	 * 
+	 * @return void
+	 * @author $TM_FULLNAME
+	 **/
+public function set${1/./\u$0/}(\$$1) {
+	\$this-&gt;$1 = \$$1;
+} // end of public function set${1/./\u$0/}()</string>
+	<key>name</key>
+	<string>setter/getter method</string>
+	<key>tabTrigger</key>
+	<string>doc_set_get</string>
+	<key>uuid</key>
+	<string>7D3D4D8F-8852-4A1B-B6CB-CF922D2EDEFB</string>
+</dict>
+</plist>

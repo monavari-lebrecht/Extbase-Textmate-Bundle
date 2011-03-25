@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;view-&gt;assign('$1',$2);</string>
+	<key>name</key>
+	<string>assign to view</string>
+	<key>tabTrigger</key>
+	<string>assign</string>
+	<key>uuid</key>
+	<string>CD11BD92-E5E6-4DA6-984F-10856D898EB3</string>
+</dict>
+</plist>
