@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>\$this-&gt;view-&gt;assign('$1',$2);</string>
 	<key>name</key>
-	<string>assign to view</string>
+	<string>Assign to view</string>
 	<key>tabTrigger</key>
 	<string>assign</string>
 	<key>uuid</key>

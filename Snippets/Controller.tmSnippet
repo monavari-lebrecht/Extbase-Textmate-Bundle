@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>	/**
+	 * ${3:undocumented class}
+	 *
+	 * @package ${4:$TM_PACKAGE}
+	 * @subpackage ${5:$TM_SUBPACKAGE}
+	 * @author ${PHPDOC_AUTHOR:$TM_FULLNAME}
+	 **/
+$1class $2 extends Tx_Extbase_MVC_Controller_ActionController {$0
+} // END $1class $2 extends Tx_Extbase_MVC_Controller_ActionController </string>
+	<key>name</key>
+	<string>Controller</string>
+	<key>tabTrigger</key>
+	<string>extbase_controller</string>
+	<key>uuid</key>
+	<string>C8E9B40A-895D-4C38-A841-0AB3B52BFB1C</string>
+</dict>
+</plist>
