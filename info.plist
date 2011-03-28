@@ -4,6 +4,12 @@
 <dict>
 	<key>name</key>
 	<string>Extbase</string>
+	<key>ordering</key>
+	<array>
+		<string>CD11BD92-E5E6-4DA6-984F-10856D898EB3</string>
+		<string>C8E9B40A-895D-4C38-A841-0AB3B52BFB1C</string>
+		<string>7D3D4D8F-8852-4A1B-B6CB-CF922D2EDEFB</string>
+	</array>
 	<key>uuid</key>
 	<string>834E0692-F2EE-4CA3-B3B6-FBE99378E838</string>
 </dict>
